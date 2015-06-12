@@ -1,0 +1,13 @@
+---
+title: Medium Manganese Steels
+subtitle: Collaboration with De Cooman Group
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: medmn.png
+thumbnail: medmn-thumbnail.png
+alt: image-alt
+project-date: January 2015 - Present
+description: In this collaborative research with Materials Design Laboratory (GIFT), we employ models and experiments to shed light on intricate deformation behavior of multiphase medium manganese steels. 
+
+---

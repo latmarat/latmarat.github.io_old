@@ -1,0 +1,15 @@
+---
+title: Architectured Materials
+subtitle: National Research Project
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: archimat.png
+thumbnail: archimat-thumbnail.png
+alt: image-alt
+project-date: November 2014 - Present
+client: Start Bootstrap
+category: Web Development
+description: Project funded by National Research Foundation of Korea to develop mutliscale architectured materials for improved combinations of properties.
+
+---

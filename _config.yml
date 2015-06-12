@@ -1,0 +1,73 @@
+url: https://colorblindy.github.io
+baseurl: "" #/agency-jekyll-theme/
+
+# Site settings
+title: Marat I. Latypov
+email: marat@latmarat.net
+description: "Marat Latypov Postdoc POSTECH Materials Science Crystal plasticity"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: fed136
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+# people:
+# - name: Kay Garland
+  # pic: 1
+  # position: Lead Designer
+  # social:
+    # - title: twitter
+      # url: #
+    # - title: facebook
+      # url: #
+    # - title: stack-overflow
+      # url: #
+
+# - name: Larry Parker
+  # pic: 2
+  # position: Lead Marketer
+  # social:
+    # - title: twitter
+      # url: #
+    # - title: facebook
+      # url: #
+    # - title: linkedin
+      # url: #
+
+# - name: Diana Petersen
+  # pic: 3
+  # position: Lead Developer
+  # social:
+    # - title: twitter
+      # url: #
+    # - title: facebook
+      # url: #
+    # - title: google-plus
+      # url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/colorblindy
+  - title: linkedin
+    url: http://kr.linkedin.com/in/latmarat
+  - title: flickr 
+    url: https://www.flickr.com/photos/131459730@N05/
+#  - title: researchgate
+#    url: https://www.researchgate.net/profile/Marat_Latypov
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty

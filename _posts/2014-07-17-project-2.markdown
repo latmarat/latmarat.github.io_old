@@ -1,0 +1,15 @@
+---
+title: High Strength Steels by SPD
+subtitle: Korea-Russia Joint Project
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: korus.png
+thumbnail: korus-thumbnail.png
+alt: image-alt
+project-date: February 2015 - Present
+client: Start Bootstrap
+category: Web Development
+description: Joint project between POSTECH (Korea) and USATU (Russia) funded by the two governments to develop high strength steels by simultaneous activation of multiple strengthening mechanisms through severe plastic deformation. 
+
+---
