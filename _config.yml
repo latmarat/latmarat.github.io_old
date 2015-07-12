@@ -1,10 +1,10 @@
-url: https://colorblindy.github.io
+url: https://latmarat.github.io
 baseurl: "" #/agency-jekyll-theme/
 
 # Site settings
 title: Marat I. Latypov
-email: marat@latmarat.net
-description: "Marat Latypov Postdoc POSTECH Materials Science Crystal plasticity"
+email: latmarat@gmail.com
+description: "Marat Latypov Postdoc Materials Science"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -50,7 +50,7 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/colorblindy
+    url: http://github.com/latmarat
   - title: linkedin
     url: http://kr.linkedin.com/in/latmarat
   - title: flickr 
