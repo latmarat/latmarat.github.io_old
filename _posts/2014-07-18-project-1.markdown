@@ -4,8 +4,8 @@ subtitle: National Research Project
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: archimat.png
-thumbnail: archimat-thumbnail.png
+img: https://farm8.staticflickr.com/7340/26350446673_22fecd27fc_o_d.png
+thumbnail: https://farm8.staticflickr.com/7081/26350447093_3c78a77a11_o_d.png
 alt: image-alt
 project-date: November 2014 - August 2015
 client: Start Bootstrap
