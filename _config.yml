@@ -2,9 +2,9 @@ url: https://latmarat.github.io
 baseurl: "" #/agency-jekyll-theme/
 
 # Site settings
-title: Marat I. Latypov
-email: latmarat@gmail.com
-description: "Marat Latypov Postdoc Materials Science"
+title: Marat I. Latypov Georgia Tech Lorraine
+email: marat.latypov@georgiatech-metz.fr
+description: "Marat Latypov Georgia Tech Lorraine POSTECH Materials Science Materials Informatics"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -47,7 +47,7 @@ color:
     # - title: google-plus
       # url: #
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks links
 social:
   - title: linkedin
     url: http://kr.linkedin.com/in/latmarat
@@ -62,11 +62,6 @@ academic:
     url: https://www.researchgate.net/profile/Marat_Latypov
   - title: google-scholar
     url: https://scholar.google.com/citations?user=We5aJywAAAAJ&hl=en&oi=ao
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
