@@ -9,7 +9,7 @@ description: "Marat Latypov Postdoc Materials Science"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -49,18 +49,19 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: http://github.com/latmarat
   - title: linkedin
     url: http://kr.linkedin.com/in/latmarat
-  - title: flickr 
-    url: https://www.flickr.com/photos/131459730@N05/
-#  - title: researchgate
-#    url: https://www.researchgate.net/profile/Marat_Latypov
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-
-
+  - title: github
+    url: http://github.com/latmarat
+academic:
+  - title: mendeley
+    url: https://www.mendeley.com/profiles/marat-latypov/
+  - title: orcid
+    url: http://orcid.org/0000-0003-4416-0877
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Marat_Latypov
+  - title: google-scholar
+    url: https://scholar.google.com/citations?user=We5aJywAAAAJ&hl=en&oi=ao
 
 # Postal address (add as many lines as necessary)
 address:
