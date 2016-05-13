@@ -2,7 +2,7 @@ url: https://latmarat.github.io
 baseurl: "" #/agency-jekyll-theme/
 
 # Site settings
-title: Marat I. Latypov Georgia Tech Lorraine
+title: Marat I. Latypov
 email: marat.latypov@georgiatech-metz.fr
 description: "Marat Latypov Georgia Tech Lorraine POSTECH Materials Science Materials Informatics"
 
@@ -65,5 +65,5 @@ academic:
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
