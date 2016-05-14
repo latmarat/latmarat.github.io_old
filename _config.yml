@@ -4,7 +4,7 @@ baseurl: "" #/agency-jekyll-theme/
 # Site settings
 title: Marat I. Latypov
 email: marat.latypov@georgiatech-metz.fr
-description: "Marat Latypov Georgia Tech Lorraine POSTECH Materials Science Materials Informatics"
+description: "Homepage of Marat I. Latypov - Postdoc in Materials Science at Georgia Tech Lorraine, previously with POSTECH. Research interests: materials informatics and data sciences, multiscale modeling, microstructures, and advanced steels."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
