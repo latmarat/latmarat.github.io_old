@@ -1,6 +1,6 @@
 ---
 layout: default
-is_contact: true
+title: "Marat I. Latypov - Materials Scientist - UCSB"
 ---
 
 See also [Google Scholar Profile](https://scholar.google.com/citations?user=We5aJywAAAAJ&hl).

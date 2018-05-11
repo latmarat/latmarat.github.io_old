@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Marat I. Latypov - Materials Scientist - UCSB"
 ---
 
 ## Profile
