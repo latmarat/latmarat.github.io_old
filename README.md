@@ -1,30 +1,35 @@
-Agency Jekyll theme
-====================
+# Researcher
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+### [Demo Website](http://ankitsultana.com/researcher)
 
-# How to use
+A clean, single column, monospace resume template built for jekyll
 
-###Portfolio 
+### Installation
 
-Portfolio projects are in '/_posts'
+Simply fork the repository and edit away.
 
-Images are in '/img/portfolio'
+### Customization
 
-###About
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
-Images are in '/img/about/'
+* You can of course remove `contact.md` if you don't want it
 
-###Team
+* To set the heading, edit the `title` variable in `_config.yml`
 
-Team members and info are in '_config.yml'
+* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
 
-Images are in '/img/team/'
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-# Demo
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+
+### License
+
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
