@@ -71,7 +71,5 @@ Marat I. Latypov \\
 Mechanical Engineering Department \\
 Materials Department \\
 University of California, Santa Barbara \\
-Santa Barbara, CA 93106-5070
-
-- [Email](mailto:latmarat@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/latmarat/)
+Santa Barbara, CA 93106-5070 \\
+[Email](mailto:latmarat@gmail.com) | [LinkedIn](https://www.linkedin.com/in/latmarat/) 
